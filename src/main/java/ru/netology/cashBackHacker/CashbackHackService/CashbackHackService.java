@@ -1,4 +1,4 @@
-package ru.netology.cashBackHacker;
+package ru.netology.cashbackHacker.CashbackHackService;
 
 public class CashbackHackService {
     private final int boundary = 1000;
